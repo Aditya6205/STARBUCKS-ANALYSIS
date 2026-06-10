@@ -6,7 +6,7 @@ This repository contains a comprehensive, business-driven business intelligence 
 Rather than simply displaying raw data, this project addresses real-world corporate challenges: **navigating shifting global health trends**, **evaluating market saturation limits**, and **identifying high-margin product opportunities** within the functional beverage market.
 
 ### 🖼️ Executive Dashboard Preview
-> *Refer to the file named verbatim `Screenshot (91).jpg` in the root directory to view the complete interactive layout.*
+> *Refer to the file named verbatim `Screenshot (93).jpg` in the root directory to view the complete interactive layout.*
 
 ---
 
@@ -67,7 +67,7 @@ Rather than simply displaying raw data, this project addresses real-world corpor
 *   `STARBUCKS_ANALYSIS.pbix` - The primary Power BI data model and dashboard file.
 *   `starbucks.csv` - Raw menu nutritional dataset containing ingredient profiles, calorie weights, and macro listings.
 *   `directory.csv` - Complete spatial real estate tracking data covering global store IDs, long/lat mappings, and ownership structures.
-*   `Screenshot (91).jpg` - High-definition visual screen capture showcasing the active dashboard interface.
+*   `Screenshot (93).jpg` - High-definition visual screen capture showcasing the active dashboard interface.
 
 ---
 ### 🛠️ Tools Used

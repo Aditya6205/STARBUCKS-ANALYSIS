@@ -55,7 +55,7 @@ Rather than simply displaying raw data, this project addresses real-world corpor
 
 ---
 
-## 📈 Recruiter-Friendly Impact Summary (STAR Method)
+## 📈 Impact Summary (STAR Method)
 *   **Situation:** Analyzed international operational retail footprints alongside complex product recipe matrices to solve market saturation challenges and address changing nutritional trends.
 *   **Task:** Engineered a robust business intelligence infrastructure converting **25,600 operational store profiles** and extensive ingredient records into data stories tailored for C-suite decision-makers.
 *   **Action:** Developed automated ETL pipelines in Power Query, resolved column data type mismatches, mapped multi-tiered global distribution data, and built diagnostic index equations utilizing custom DAX structures.
